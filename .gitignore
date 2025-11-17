@@ -1,0 +1,35 @@
+# Зависимости Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Локальные файлы ОС
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Файлы окружения
+.env
+.env.local
+.env.production
+
+# Локальные скрипты
+*.bat
+*.sh
+start.bat
+
+# Логи
+*.log
+logs/
+
+# Идеи/настройки редакторов
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Резервные копии
+*.bak
+*.backup
