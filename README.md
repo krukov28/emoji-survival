@@ -1,1 +1,1 @@
-# emoji-survival
+# emoji-survival это .io игра пока что плохо сделана ну да ладно и так сойдет
